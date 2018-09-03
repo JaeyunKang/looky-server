@@ -1,0 +1,180 @@
+{
+  "man": {
+    "outer": {
+	  "cardigan": "가디건",
+	  "vest": "베스트",
+	  "zipup": "집업",
+	  "jacket": "자켓",
+	  "jumper": "점퍼",
+	  "militaryJumper": "야상/라쿤",
+	  "coat": "코트",
+	  "padding": "패딩"
+	},
+
+	"top": {
+	  "tee": "티셔츠",
+	  "mantoman": "맨투맨",
+	  "hoodTee": "후드티",
+	  "knitTee": "니트",
+	  "turtleneckTee": "폴라티"
+	},
+
+	"shirts": {
+	  "_shirts": "셔츠"
+	},
+
+	"pants": {
+	  "jeans": "데님/청바지",
+	  "cottonPants": "면바지",
+	  "slacks": "슬랙스",
+	  "trainingPants": "트레이닝/조거",
+	  "cargoPants": "카고"
+	},
+
+	"beach": {
+	  "_beach": "비치웨어"
+	},
+	
+	"couple": {
+	  "_couple": "커플룩"
+	},
+
+	"shoes": {
+	  "sneakers": "스니커즈",
+	  "slipon": "슬립온",
+	  "boots": "부츠/워커",
+	  "loafer": "로퍼",
+	  "heel": "구두",
+	  "oxford": "옥스포드",
+	  "slipper": "슬리퍼",
+	  "sandal": "샌들",
+	  "elevator": "키높이"
+	},
+
+	"bag": {
+	  "backpack": "백팩",
+	  "crossBag": "크로스백",
+	  "shoulderBag": "숄더백",
+	  "toteBag": "토트백",
+	  "clutch": "클러치",
+	  "waistBag": "힙색"
+	},
+
+	"acc": {
+	  "hat": "모자",
+	  "glasses": "안경/선글라스",
+	  "piercing": "피어싱",
+	  "necklace": "목걸이",
+	  "scarf": "스카프/머플러",
+	  "tie": "타이",
+	  "wappen": "와펜/브로치",
+	  "watch": "시계",
+	  "gloves": "장갑",
+	  "ring": "반지",
+	  "bracelet": "팔찌",
+	  "belt": "벨트"
+	}
+  },
+
+  "woman": {
+    "outer": {
+	  "cardigan": "가디건",
+	  "vest": "베스트",
+	  "zipup": "집업",
+	  "jacket": "자켓",
+	  "jumper": "점퍼",
+	  "militaryJumper": "야상/라쿤",
+	  "coat": "코트",
+	  "padding": "패딩"
+	},
+
+	"top": {
+      "tee": "티셔츠",
+	  "bustierTee": "뷔스티에",
+	  "mantoman": "맨투맨",
+	  "hoodTee": "후드티",
+	  "knitTee": "니트",
+	  "turtleneckTee": "폴라티"
+	},
+
+	"shirts": {
+	  "_shirts": "셔츠",
+	  "blouse": "블라우스"
+	},
+
+	"pants": {
+	  "jeans": "데님/청바지",
+	  "cottonPants": "면바지",
+	  "slacks": "슬랙스",
+	  "trainingPants": "트레이닝/조거"
+	},
+
+	"skirt": {
+	  "_skirt": "스커트"
+	},
+
+	"onepiece": {
+	  "_onepiece": "원피스"
+	},
+
+	"beach": {
+	  "_beach": "비치웨어"
+	},
+
+	"fitness": {
+	  "_fitness": "피트니스"
+	},
+
+	"pajama": {
+	  "_pajama": "파자마"
+	},
+	
+	"couple": {
+	  "_couple": "커플룩"
+	},
+
+	"shoes": {
+	  "sneakers": "스니커즈",
+	  "slipon": "슬립온",
+	  "boots": "부츠/워커",
+	  "flat": "플랫",
+	  "loafer": "로퍼",
+	  "heel": "구두",
+	  "slipper": "슬리퍼",
+	  "sandal": "샌들",
+	  "rainBoots": "장화"
+	},
+
+	"bag": {
+	  "backpack": "백팩",
+	  "crossBag": "크로스백",
+	  "shoulderBag": "숄더백",
+	  "toteBag": "토트백",
+	  "clutch": "클러치",
+	  "waistBag": "힙색",
+	  "miniBack": "미니백",
+	  "walletBag": "지갑",
+	  "pouch": "파우치",
+	  "ecoBag": "에코백",
+	  "cottonBag": "코튼백",
+	  "leatherBag": "레더백"
+	},
+
+	"acc": {
+	  "hat": "모자",
+	  "hairAcc": "헤어",
+	  "glasses": "안경/선글라스",
+	  "earring": "귀걸이",
+	  "necklace": "목걸이/쵸커",
+	  "scarf": "스카프/머플러",
+	  "watch": "시계",
+	  "gloves": "장갑",
+	  "wallet": "지갑",
+	  "ring": "반지",
+	  "bracelet": "팔찌",
+	  "anklet": "발찌",
+	  "belt": "벨트"
+	}
+
+  }
+}
